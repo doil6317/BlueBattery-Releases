@@ -6,6 +6,18 @@ A macOS battery widget for supported Bluetooth accessories.
 
 This public repository hosts downloads and documentation only. The application source code is maintained separately in a private repository.
 
+## Widget preview
+
+<p align="center">
+  <img src="assets/bluebattery-widget.png" width="560" alt="BlueBattery widget preview showing AirPods and cases, Magic Keyboard and Magic Trackpad, with charging and low-battery indicators">
+</p>
+
+*Rendered from the actual widget UI using fictional device readings. No personal device data is shown.*
+
+*가상 배터리 데이터로 만든 위젯 예시 화면입니다. 개인 기기 정보는 포함하지 않았습니다.*
+
+*架空のバッテリーデータを使用したウィジェットの表示例です。個人の機器情報は含まれていません。*
+
 ## Features
 
 - Battery rings with device icons, charging indicators and low-battery colors.
